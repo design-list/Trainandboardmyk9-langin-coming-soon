@@ -6,16 +6,16 @@ export default function Home() {
       <Image
         src="/desktop.png"
         alt="Train and Board My K9 PNW — Website Launching Soon"
-        width={1080}
-        height={1080}
+        width={1500}
+        height={1000}
         priority
         className="h-screen w-full hidden md:block"
       />
       <Image
         src="/mobile.png"
         alt="Train and Board My K9 PNW — Website Launching Soon"
-        width={1080}
-        height={1080}
+        width={400}
+        height={700}
         priority
         className="h-screen w-full block md:hidden"
       />
